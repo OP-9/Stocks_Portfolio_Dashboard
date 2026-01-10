@@ -9,7 +9,7 @@ I created this program for a friend who was maintaining his financial portfolio 
 *  Displays various information regarding the stocks, such as their respective prices, 52 day averages, and the returns on investment.
 
 ## dash_file.py
-* Displays information from the workbook, such as the live value of the portfolio and the trend of the Net Assest Value, with Dash
+* Displays information from the workbook, such as the live value of the portfolio and the trend of the Net Asset Value, with Dash
 * Presents the returns of the stocks, categorized by industry
 * Updates the dashboard every 30 seconds
 
