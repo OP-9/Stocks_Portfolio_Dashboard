@@ -2,6 +2,9 @@
 
 I created this program for a friend who was maintaining his financial portfolio on Excel. The two main goals were to automate the addition of up-to-date information from Yahoo Finance to the workbook and to visualise the information on the workbook on a dashboard. This saved him more than 85% of the time he would spend daily manually updating the workbook and it also increased the accuracy of the information added to workbook.
 
+#Setup
+Call the functions create_book, initial_stock_tickers, and add_data_to_portfolio simultaneously and in that order. This results in the workbook created in the format that would allow this programme to add and read data. 
+
 ## excel_connector.py
 *  Extracts the information regarding the stocks on the portfolio through Yahoo Finance's API and adds it to excel.
 *  Maintains a record of all the investor's of the portfolio and their respective investments
